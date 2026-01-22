@@ -129,7 +129,9 @@
 Мы отсортировали наши процессы на "Независимые", "Зависящие от 1го" и остальные (Зависят от 2х или 3х)
 Переходим в "Данные" и жмём "Текст по столбцам"
 <br><br><br><br>
-<img width="513" height="413" alt="task22_1solution (4)" src="https://github.com/user-attachments/assets/fc0924aa-c6e3-4a04-987d-95cceb2bcf9c" /> <img width="513" height="413" alt="task22_1solution (5)" src="https://github.com/user-attachments/assets/638bf109-66ee-4303-a51a-91ab0ddf8765" /> <img width="513" height="413" alt="task22_1solution (6)" src="https://github.com/user-attachments/assets/65dd1da2-4955-4c10-929d-375965711f36" />
+<img width="513" height="413" alt="task22_1solution (4)" src="https://github.com/user-attachments/assets/fc0924aa-c6e3-4a04-987d-95cceb2bcf9c" /> 
+<img width="513" height="413" alt="task22_1solution (5)" src="https://github.com/user-attachments/assets/638bf109-66ee-4303-a51a-91ab0ddf8765" /> 
+<img width="513" height="413" alt="task22_1solution (6)" src="https://github.com/user-attachments/assets/65dd1da2-4955-4c10-929d-375965711f36" />
 Настраиваем таким образом
 <br><br><br><br>
 <img width="1920" height="1032" alt="task22_1solution (7)" src="https://github.com/user-attachments/assets/6f8b3506-a3fe-4cb6-93ef-53186783c172" />
