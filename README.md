@@ -112,3 +112,40 @@
 - у Вани есть выигрышная стратегия, позволяющая ему выиграть первым или вторым ходом при любой игре Пети; <br>
 - у Вани нет стратегии, которая позволит ему гарантированно выиграть первым ходом. <br>
 Означают что Ваня не может выигрывать всегда 1м ходом, но 2м может всегда (самое главное чтобы не было 3х выиграных 1м ходом, 1-2 можно) <br>
+
+## Задание 22 
+### Тип с нахождением времени (<strong>НЕ ОТРЕЗКА</strong>)
+### Само задание
+<img width="1170" height="487" alt="task22_1" src="https://github.com/user-attachments/assets/f4d2fe08-a5e8-4116-8031-f9e27c7fb350" />
+Нас интересует только то, что нужно найти (от этого будет зависеть метод решения)
+<br><br><br><br>
+<img width="1920" height="1032" alt="task22_1solution (1)" src="https://github.com/user-attachments/assets/4038c300-3a57-4950-ad88-94800aa27e31" />
+Выделяем столб с ID процесса A и сортируем его от А до Я
+<br><br><br><br>
+<img width="1920" height="1032" alt="task22_1solution (2)" src="https://github.com/user-attachments/assets/a16c0726-1e0b-41ae-aa55-425dc2a2511e" />
+Жмём "Сортировка"
+<br><br><br><br>
+<img width="1920" height="1032" alt="task22_1solution (3)" src="https://github.com/user-attachments/assets/0f2e1ea1-b25f-4f11-b39b-724e50a781c3" />
+Мы отсортировали наши процессы на "Независимые", "Зависящие от 1го" и остальные (Зависят от 2х или 3х)
+Переходим в "Данные" и жмём "Текст по столбцам"
+<br><br><br><br>
+<img width="513" height="413" alt="task22_1solution (4)" src="https://github.com/user-attachments/assets/fc0924aa-c6e3-4a04-987d-95cceb2bcf9c" /> <img width="513" height="413" alt="task22_1solution (5)" src="https://github.com/user-attachments/assets/638bf109-66ee-4303-a51a-91ab0ddf8765" /> <img width="513" height="413" alt="task22_1solution (6)" src="https://github.com/user-attachments/assets/65dd1da2-4955-4c10-929d-375965711f36" />
+Настраиваем таким образом
+<br><br><br><br>
+<img width="1920" height="1032" alt="task22_1solution (7)" src="https://github.com/user-attachments/assets/6f8b3506-a3fe-4cb6-93ef-53186783c172" />
+<img width="1920" height="1032" alt="task22_1solution (8)" src="https://github.com/user-attachments/assets/42771bed-dcd2-414c-b884-cd08537e06c2" />
+<img width="1920" height="1032" alt="task22_1solution (9)" src="https://github.com/user-attachments/assets/f16a84d9-3cdf-4dbf-8b79-aa89e2cea934" />
+<img width="1920" height="1032" alt="task22_1solution (10)" src="https://github.com/user-attachments/assets/60ccfebe-0009-4971-a6bf-f5923fdb9259" />
+<img width="1920" height="1032" alt="task22_1solution (11)" src="https://github.com/user-attachments/assets/be80e0b2-5c3d-42d7-a606-3f51a9740e8e" />
+<img width="1920" height="1032" alt="task22_1solution (12)" src="https://github.com/user-attachments/assets/24256496-7e43-4c92-b34c-557598782bf1" />
+<img width="1920" height="1032" alt="task22_1solution (13)" src="https://github.com/user-attachments/assets/1fa00378-8f2c-4396-94ab-49406dec2f09" />
+<img width="1920" height="1032" alt="task22_1solution (14)" src="https://github.com/user-attachments/assets/8b8f5e7f-e2da-4924-8292-ed234277ac8b" />
+
+
+
+
+
+
+
+
+
