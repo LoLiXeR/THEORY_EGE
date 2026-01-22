@@ -1,5 +1,4 @@
-# THEORY_EGE
-Все задания в Readme - задания эксель, ибо в код их не встроить
+# Все задания в Readme - задания эксель, ибо в код их не встроить
 
 ## Задание 18
 ### Само задание
@@ -63,7 +62,7 @@
 <br><br><br><br>
 <img width="1920" height="1032" alt="task192021solution (1)" src="https://github.com/user-attachments/assets/3dc8a4d9-5f85-452e-ae9f-f0e023f26a31" />
 Создаём пустую таблицу
-<br><br><br><br>
+
 ### Задание 19
 <img width="1920" height="1032" alt="task192021solution (2)" src="https://github.com/user-attachments/assets/751bb116-dd19-4a8c-a836-0b5bfc687da6" />
 Прописываем ячейки Куча, Проигравший, Победитель
@@ -81,7 +80,7 @@
 <br><br><br><br>
 <img width="1920" height="1032" alt="task192021solution (9)" src="https://github.com/user-attachments/assets/fb31e202-cc20-468d-80a2-01bb4694e2aa" />
 Также мы можем всё выровнять чтобы всё было по красоте, и начинаем перебирать числа до тех пор, пока Ваня не будет зелёным во всех 3х ячейках (по условию при любом ходе Пети)
-<br><br><br><br>
+
 ### Задание 20
 <img width="1920" height="1032" alt="task192021solution (10)" src="https://github.com/user-attachments/assets/dfc1ff42-cc06-483e-91a3-3ce7f01a7432" />
 Копируем кучу
