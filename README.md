@@ -145,12 +145,12 @@
 <br><br><br><br>
 <img width="1920" height="1032" alt="task22_1solution (10)" src="https://github.com/user-attachments/assets/60ccfebe-0009-4971-a6bf-f5923fdb9259" />
 <img width="1920" height="1032" alt="task22_1solution (11)" src="https://github.com/user-attachments/assets/be80e0b2-5c3d-42d7-a606-3f51a9740e8e" />
-<img width="1920" height="1032" alt="task22_1solution (12)" src="https://github.com/user-attachments/assets/24256496-7e43-4c92-b34c-557598782bf1" />
 Как мы знаем, если 1 процесс зависит от 2, то он не может начаться раньше времени завершения 2 процесса, поэтому мы ищем самый долгий процесс из всех и прибавляем к нему 1 (ну не может он начать выполняться в последнюю мс выполнения процесса от которого зависит) для выставления времени начала
 <br><br><br><br>
-<img width="1920" height="1032" alt="task22_1solution (13)" src="https://github.com/user-attachments/assets/1fa00378-8f2c-4396-94ab-49406dec2f09" />\
+<img width="1920" height="1032" alt="task22_1solution (12)" src="https://github.com/user-attachments/assets/24256496-7e43-4c92-b34c-557598782bf1" />
 Вот что у нас вышло
 <br><br><br><br>
+<img width="1920" height="1032" alt="task22_1solution (13)" src="https://github.com/user-attachments/assets/1fa00378-8f2c-4396-94ab-49406dec2f09" />
 <img width="1920" height="1032" alt="task22_1solution (14)" src="https://github.com/user-attachments/assets/8b8f5e7f-e2da-4924-8292-ed234277ac8b" />
 Теперь просто ищем время последнего завершённого процесса - оно и будет ответом на нашу задачу
 
